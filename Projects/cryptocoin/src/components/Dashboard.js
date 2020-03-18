@@ -2,7 +2,7 @@ import React from 'react'
 import { CoinGrid, CoinTile, CoinHeaderGrid, CoinSymbol } from './CoinList'
 import styled, { css } from 'styled-components'
 import {
-  fontSizeBig, fontSize3, subtleBoxShadow, lightBlueBackground, bgColor2, fontSize2, crimson, seagreen} from '../styles/Styles';
+  fontSizeBig, fontSize3, subtleBoxShadow, lightBlueBackground, bgColor2, fontSize2, seagreen} from '../styles/Styles';
 
 import highchartsConfig from '../config/Highchart'
 import highchartTheme from '../styles/HighchartsTheme'

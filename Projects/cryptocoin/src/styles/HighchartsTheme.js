@@ -5,7 +5,7 @@ export default {
     thousandsSep: ',',
   },
   colors: [
-    '#61d936',
+    '#52CE99',
     '#552ccb',
     '#1163c9',
     '#04A1EE',
